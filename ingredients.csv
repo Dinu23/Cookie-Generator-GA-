@@ -1,0 +1,195 @@
+Ingredient,type,max,min,step
+egg white,binding,5,1,1
+yolk,binding,5,1,1
+whole egg,binding,5,1,1
+water,binding,500,200,50
+milk,binding,500,200,50
+oats,core,50,5,5
+wheat germ,core,50,5,5
+pumpkin seed,core,50,5,5
+cornstarch,core,50,5,5
+cream,fat,200,50,10
+salted butter,fat,200,50,10
+oil,fat,200,50,10
+unsalted butter,fat,200,50,10
+sweet cream butter,fat,200,50,10
+macadamia,flavor,100,5,5
+poppy seed,flavor,100,5,5
+sage,flavor,100,5,5
+kaffir leaf,flavor,100,5,5
+coriander,flavor,100,5,5
+turmeric,flavor,100,5,5
+cinnamon,flavor,100,5,5
+lemongrass,flavor,100,5,5
+mace,flavor,100,5,5
+allspice,flavor,100,5,5
+thyme,flavor,100,5,5
+star anise,flavor,100,5,5
+cardamom,flavor,100,5,5
+oregano,flavor,100,5,5
+cumin,flavor,100,5,5
+mint,flavor,100,5,5
+nutmeg,flavor,100,5,5
+bay leaf,flavor,100,5,5
+tarragon,flavor,100,5,5
+cayenne,flavor,100,5,5
+rosemary,flavor,100,5,5
+paprika,flavor,100,5,5
+cilantro,flavor,100,5,5
+ginger,flavor,100,5,5
+lavender,flavor,100,5,5
+parsley,flavor,100,5,5
+cloves,flavor,100,5,5
+saffron,flavor,100,5,5
+basil,flavor,100,5,5
+chocolate,flavor,100,5,5
+rose water,flavor,100,5,5
+white chocolate,flavor,100,5,5
+coconut milk,flavor,100,5,5
+orange blossom water,flavor,100,5,5
+vanilla,flavor,100,5,5
+coffee,flavor,100,5,5
+anise,flavor,100,5,5
+chilli,flavor,100,5,5
+white pepper,flavor,100,5,5
+cassia leaf,flavor,100,5,5
+clove,flavor,100,5,5
+black pepper,flavor,100,5,5
+dill,flavor,100,5,5
+rose,flavor,100,5,5
+matcha,flavor,100,5,5
+fennel,flavor,100,5,5
+jasmine,flavor,100,5,5
+toffee,flavor,100,5,5
+chamomile,flavor,100,5,5
+violet,flavor,100,5,5
+prunes,flavor,100,5,5
+raisins,flavor,100,5,5
+caramel hazelnut,flavor,100,5,5
+liquorice,flavor,100,5,5
+dandelion,flavor,100,5,5
+all-purpose flour,flour,500,200,50
+white whole wheat flour,flour,500,200,50
+rye flour,flour,500,200,50
+spelt flour,flour,500,200,50
+currant,fruit,300,50,10
+fig,fruit,300,50,10
+nectarines,fruit,300,50,10
+papaya,fruit,300,50,10
+strawberry,fruit,300,50,10
+lychee,fruit,300,50,10
+cherry,fruit,300,50,10
+mango,fruit,300,50,10
+watermelon,fruit,300,50,10
+apricot,fruit,300,50,10
+cantaloupe,fruit,300,50,10
+blood orange,fruit,300,50,10
+orange,fruit,300,50,10
+melon,fruit,300,50,10
+guava,fruit,300,50,10
+persimmon,fruit,300,50,10
+passion fruit,fruit,300,50,10
+pomegranate,fruit,300,50,10
+tangerine,fruit,300,50,10
+pumpkin,fruit,300,50,10
+kumquat,fruit,300,50,10
+rhubarb,fruit,300,50,10
+kiwi,fruit,300,50,10
+banana,fruit,300,50,10
+gooseberry,fruit,300,50,10
+honeydew,fruit,300,50,10
+lemon,fruit,300,50,10
+blueberry,fruit,300,50,10
+prune,fruit,300,50,10
+quince,fruit,300,50,10
+grape,fruit,300,50,10
+apple,fruit,300,50,10
+avocado,fruit,300,50,10
+pineapple,fruit,300,50,10
+plum,fruit,300,50,10
+blackberry,fruit,300,50,10
+peach,fruit,300,50,10
+cranberry,fruit,300,50,10
+date,fruit,300,50,10
+grapefruit,fruit,300,50,10
+boysenberry,fruit,300,50,10
+pear,fruit,300,50,10
+lime,fruit,300,50,10
+tomato,fruit,300,50,10
+nectarine,fruit,300,50,10
+coconut,fruit,300,50,10
+cucumber,fruit,300,50,10
+celery,fruit,300,50,10
+citrus,fruit,300,50,10
+figs,fruit,300,50,10
+juniper,fruit,300,50,10
+black currant,fruit,300,50,10
+citrus mango,fruit,300,50,10
+passionfruit,fruit,300,50,10
+pears,fruit,300,50,10
+oranges,fruit,300,50,10
+cherry,fruit,300,50,10
+cloudberry,fruit,300,50,10
+lime orange,fruit,300,50,10
+dragon fruit,fruit,300,50,10
+durian,fruit,300,50,10
+raspberry,fruit,300,50,10
+pistachio,nut,300,10,5
+macadamia,nut,300,10,5
+pine nut,nut,300,10,5
+pecan,nut,300,10,5
+almond,nut,300,10,5
+peanut,nut,300,10,5
+chestnut,nut,300,10,5
+cashew,nut,300,10,5
+hazelnut,nut,300,10,5
+walnut,nut,300,10,5
+brazil nut,nut,300,10,5
+baking powder,rising,5,1,1
+baking soda,rising,5,1,1
+cream of tartar,rising,5,1,1
+cassis,spirts,200,10,10
+rum,spirts,200,10,10
+orange liqueur,spirts,200,10,10
+whiskey,spirts,200,10,10
+framboise,spirts,200,10,10
+brandy,spirts,200,10,10
+calvados,spirts,200,10,10
+banana liqueur,spirts,200,10,10
+armagnac,spirts,200,10,10
+rosé,spirts,200,10,10
+bourbon,spirts,200,10,10
+kirsch,spirts,200,10,10
+triple sec,spirts,200,10,10
+campari,spirts,200,10,10
+elderflower liqueur,spirts,200,10,10
+madeira,spirts,200,10,10
+pear brandy,spirts,200,10,10
+grand marnier,spirts,200,10,10
+crème de cassis,spirts,200,10,10
+gin,spirts,200,10,10
+sake,spirts,200,10,10
+peach liqueur,spirts,200,10,10
+amaretto,spirts,200,10,10
+vodka,spirts,200,10,10
+white wine,spirts,200,10,10
+cointreau,spirts,200,10,10
+tequila,spirts,200,10,10
+almond liqueur,spirts,200,10,10
+vin santo,spirts,200,10,10
+port,spirts,200,10,10
+red wine,spirts,200,10,10
+ice wine,spirts,200,10,10
+champagne,spirts,200,10,10
+sweet wine,spirts,200,10,10
+cognac,spirts,200,10,10
+vermouth,spirts,200,10,10
+sherry,spirts,200,10,10
+caramel,sugar,100,50,10
+brown sugar,sugar,100,50,10
+molasses,sugar,100,50,10
+honey,sugar,100,50,10
+maple syrup,sugar,100,50,10
+agave,sugar,100,50,10
+sugar,sugar,100,50,10
+corn syrup,sugar,100,50,10

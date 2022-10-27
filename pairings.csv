@@ -1,0 +1,1615 @@
+apple,apricot
+apple,blackberry
+apple,cherry
+apple,cranberry
+apple,currant
+apple,date
+apple,lychee
+apple,mango
+apple,orange
+apple,pear
+apple,pineapple
+apple,plum
+apple,pomegranate
+apple,pumpkin
+apple,quince
+apple,allspice
+apple,cardamom
+apple,cinnamon
+apple,cloves
+apple,coriander
+apple,cumin
+apple,ginger
+apple,nutmeg
+apple,rosemary
+apple,star anise
+apple,thyme
+apple,almond
+apple,chestnut
+apple,hazelnut
+apple,pecan
+apple,pine nut
+apple,pistachio
+apple,walnut
+apple,armagnac
+apple,bourbon
+apple,brandy
+apple,calvados
+apple,cognac
+apple,cointreau
+apple,kirsch
+apple,madeira
+apple,rum
+apple,sherry
+apple,vermouth
+apple,caramel
+apple,maple syrup
+apple,molasses
+apple,vanilla
+apricot,apple
+apricot,banana
+apricot,blackberry
+apricot,blueberry
+apricot,cherry
+apricot,coconut
+apricot,cranberry
+apricot,lemon
+apricot,orange
+apricot,peach
+apricot,pineapple
+apricot,plum
+apricot,prune
+apricot,raspberry
+apricot,strawberry
+apricot,cardamom
+apricot,cayenne
+apricot,cinnamon
+apricot,coriander
+apricot,ginger
+apricot,nutmeg
+apricot,rosemary
+apricot,saffron
+apricot,almond
+apricot,hazelnut
+apricot,pine nut
+apricot,pistachio
+apricot,walnut
+apricot,amaretto
+apricot,brandy
+apricot,cognac
+apricot,kirsch
+apricot,orange liqueur
+apricot,rum
+apricot,caramel
+apricot,honey
+apricot,maple syrup
+apricot,mascarpone
+apricot,vanilla
+banana,apricot
+banana,blackberry
+banana,blueberry
+banana,cherry
+banana,coconut
+banana,date
+banana,guava
+banana,lemon
+banana,lime
+banana,mango
+banana,orange
+banana,papaya
+banana,passion fruit
+banana,pineapple
+banana,pomegranate
+banana,raspberry
+banana,strawberry
+banana,allspice
+banana,cardamom
+banana,cinnamon
+banana,cloves
+banana,ginger
+banana,macadamia
+banana,nutmeg
+banana,cashew
+banana,hazelnut
+banana,peanut
+banana,pecan
+banana,pistachio
+banana,walnut
+banana,armagnac
+banana,banana liqueur
+banana,brandy
+banana,calvados
+banana,cognac
+banana,kirsch
+banana,madeira
+banana,rum
+banana,caramel
+banana,chocolate
+banana,coffee
+banana,creme fraeche
+banana,honey
+banana,maple syrup
+banana,molasses
+banana,vanilla
+blackberry,apple
+blackberry,apricot
+blackberry,banana
+blackberry,blueberry
+blackberry,lemon
+blackberry,mango
+blackberry,melon
+blackberry,nectarine
+blackberry,orange
+blackberry,peach
+blackberry,plum
+blackberry,raspberry
+blackberry,strawberry
+blackberry,watermelon
+blackberry,cinnamon
+blackberry,cloves
+blackberry,ginger
+blackberry,mint
+blackberry,almond
+blackberry,hazelnut
+blackberry,brandy
+blackberry,champagne
+blackberry,cointreau
+blackberry,grand marnier
+blackberry,kirsch
+blackberry,orange liqueur
+blackberry,caramel
+blackberry,creme fraeche
+blackberry,honey
+blackberry,mascarpone
+blackberry,vanilla
+blueberry,apple
+blueberry,apricot
+blueberry,banana
+blueberry,blackberry
+blueberry,fig
+blueberry,lemon
+blueberry,mango
+blueberry,melon
+blueberry,nectarine
+blueberry,orange
+blueberry,peach
+blueberry,pear
+blueberry,pineapple
+blueberry,raspberry
+blueberry,rhubarb
+blueberry,strawberry
+blueberry,watermelon
+blueberry,allspice
+blueberry,cardamom
+blueberry,cinnamon
+blueberry,cloves
+blueberry,ginger
+blueberry,lavender
+blueberry,mint
+blueberry,nutmeg
+blueberry,almond
+blueberry,hazelnut
+blueberry,pecan
+blueberry,pine nut
+blueberry,walnut
+blueberry,cognac
+blueberry,kirsch
+blueberry,orange liqueur
+blueberry,port
+blueberry,rum
+blueberry,triple sec
+blueberry,creme fraeche
+blueberry,honey
+blueberry,maple syrup
+blueberry,mascarpone
+blueberry,molasses
+blueberry,ricotta
+blueberry,vanilla
+cantaloupe,grapefruit
+cantaloupe,melon
+cantaloupe,raspberry
+cantaloupe,basil
+cantaloupe,cilantro
+cantaloupe,ginger
+cantaloupe,mint
+cantaloupe,star anise
+cantaloupe,tarragon
+cantaloupe,port
+cherry,apricot
+cherry,coconut
+cherry,lemon
+cherry,melon
+cherry,nectarine
+cherry,orange
+cherry,peach
+cherry,plum
+cherry,quince
+cherry,raspberry
+cherry,allspice
+cherry,cinnamon
+cherry,cloves
+cherry,coriander
+cherry,ginger
+cherry,sage
+cherry,thyme
+cherry,almond
+cherry,hazelnut
+cherry,pecan
+cherry,pistachio
+cherry,walnut
+cherry,amaretto
+cherry,armagnac
+cherry,bourbon
+cherry,brandy
+cherry,cassis
+cherry,grand marnier
+cherry,kirsch
+cherry,red wine
+cherry,rum
+cherry,vodka
+cherry,caramel
+cherry,chocolate
+cherry,coffee
+cherry,creme fraeche
+cherry,honey
+cherry,mascarpone
+cherry,vanilla
+coconut,apricot
+coconut,banana
+coconut,blackberry
+coconut,cherry
+coconut,date
+coconut,grapefruit
+coconut,guava
+coconut,kiwi
+coconut,kumquat
+coconut,lemon
+coconut,lime
+coconut,lychee
+coconut,mango
+coconut,orange
+coconut,papaya
+coconut,passion fruit
+coconut,pineapple
+coconut,allspice
+coconut,basil
+coconut,cardamom
+coconut,cilantro
+coconut,cinnamon
+coconut,cloves
+coconut,coriander
+coconut,cumin
+coconut,ginger
+coconut,kaffir leaf
+coconut,lemongrass
+coconut,mint
+coconut,nutmeg
+coconut,almond
+coconut,brazil nut
+coconut,cashew
+coconut,macadamia
+coconut,peanut
+coconut,pistachio
+coconut,rum
+coconut,caramel
+coconut,chocolate
+coconut,creme fraeche
+coconut,honey
+coconut,mascarpone
+coconut,rose water
+coconut,vanilla
+cranberry,apple
+cranberry,apricot
+cranberry,lemon
+cranberry,lime
+cranberry,orange
+cranberry,peach
+cranberry,pear
+cranberry,pumpkin
+cranberry,quince
+cranberry,tangerine
+cranberry,allspice
+cranberry,cinnamon
+cranberry,cloves
+cranberry,ginger
+cranberry,star anise
+cranberry,thyme
+cranberry,almond
+cranberry,hazelnut
+cranberry,pistachio
+cranberry,walnut
+cranberry,cognac
+cranberry,grand marnier
+cranberry,white wine
+cranberry,honey
+cranberry,maple syrup
+cranberry,vanilla
+date,apple
+date,apricot
+date,banana
+date,coconut
+date,lemon
+date,lime
+date,orange
+date,prune
+date,quince
+date,cinnamon
+date,ginger
+date,rosemary
+date,thyme
+date,almond
+date,hazelnut
+date,macadamia
+date,pecan
+date,pistachio
+date,walnut
+date,armagnac
+date,brandy
+date,red wine
+date,rum
+date,caramel
+date,chocolate
+date,coffee
+date,creme fraeche
+date,maple syrup
+date,mascarpone
+date,orange blossom water
+date,vanilla
+grape,apple
+grape,lemon
+grape,pear
+grape,raspberry
+grape,strawberry
+grape,cayenne
+grape,cumin
+grape,ginger
+grape,mint
+grape,paprika
+grape,rosemary
+grape,almond
+grape,hazelnut
+grape,pecan
+grape,pistachio
+grape,walnut
+grape,brandy
+grape,cognac
+grape,rum
+grape,honey
+grape,white chocolate
+grapefruit,avocado
+grapefruit,banana
+grapefruit,coconut
+grapefruit,lemon
+grapefruit,lime
+grapefruit,melon
+grapefruit,orange
+grapefruit,papaya
+grapefruit,pineapple
+grapefruit,pomegranate
+grapefruit,raspberry
+grapefruit,strawberry
+grapefruit,tomato
+grapefruit,basil
+grapefruit,ginger
+grapefruit,mint
+grapefruit,rosemary
+grapefruit,star anise
+grapefruit,tarragon
+grapefruit,thyme
+grapefruit,cashew
+grapefruit,hazelnut
+grapefruit,macadamia
+grapefruit,pecan
+grapefruit,walnut
+grapefruit,campari
+grapefruit,champagne
+grapefruit,gin
+grapefruit,grand marnier
+grapefruit,port
+grapefruit,rum
+grapefruit,tequila
+grapefruit,vodka
+grapefruit,caramel
+grapefruit,creme fraeche
+grapefruit,grenadine
+grapefruit,honey
+grapefruit,vanilla
+guava,banana
+guava,coconut
+guava,lemon
+guava,lime
+guava,orange
+guava,passion fruit
+guava,pineapple
+guava,strawberry
+guava,ginger
+guava,cashew
+guava,macadamia
+guava,rum
+guava,white chocolate
+guava,honey
+guava,mascarpone
+honeydew,blackberry
+honeydew,cantaloupe
+honeydew,grapefruit
+honeydew,lemon
+honeydew,lime
+honeydew,nectarine
+honeydew,peach
+honeydew,strawberry
+honeydew,basil
+honeydew,cardamom
+honeydew,coriander
+honeydew,cumin
+honeydew,ginger
+honeydew,mint
+honeydew,tarragon
+honeydew,champagne
+honeydew,coconut milk
+honeydew,honey
+kiwi,banana
+kiwi,cherry
+kiwi,coconut
+kiwi,grapefruit
+kiwi,lemon
+kiwi,lime
+kiwi,lychee
+kiwi,mango
+kiwi,orange
+kiwi,papaya
+kiwi,passion fruit
+kiwi,pineapple
+kiwi,strawberry
+kiwi,hazelnut
+kiwi,macadamia
+kiwi,kirsch
+kiwi,rum
+kiwi,chocolate
+kiwi,honey
+kumquat,coconut
+kumquat,cranberry
+kumquat,date
+kumquat,lemon
+kumquat,lime
+kumquat,mango
+kumquat,orange
+kumquat,papaya
+kumquat,persimmon
+kumquat,pineapple
+kumquat,pomegranate
+kumquat,pumpkin
+kumquat,quince
+kumquat,strawberry
+kumquat,cayenne
+kumquat,cinnamon
+kumquat,ginger
+kumquat,mace
+kumquat,mint
+kumquat,nutmeg
+kumquat,hazelnut
+kumquat,pecan
+kumquat,pistachio
+kumquat,walnut
+kumquat,brandy
+kumquat,rum
+kumquat,white wine
+kumquat,caramel
+kumquat,chocolate
+kumquat,honey
+kumquat,vanilla
+lemon,apple
+lemon,apricot
+lemon,banana
+lemon,blackberry
+lemon,blueberry
+lemon,cherry
+lemon,coconut
+lemon,cranberry
+lemon,date
+lemon,gooseberry
+lemon,grapefruit
+lemon,grape
+lemon,guava
+lemon,kiwi
+lemon,lime
+lemon,mango
+lemon,nectarine
+lemon,orange
+lemon,papaya
+lemon,passion fruit
+lemon,peach
+lemon,pear
+lemon,persimmon
+lemon,plum
+lemon,prune
+lemon,quince
+lemon,raspberry
+lemon,rhubarb
+lemon,tangerine
+lemon,basil
+lemon,bay leaf
+lemon,cardamom
+lemon,cayenne
+lemon,cinnamon
+lemon,ginger
+lemon,mint
+lemon,oregano
+lemon,parsley
+lemon,poppy seed
+lemon,rosemary
+lemon,sage
+lemon,thyme
+lemon,almond
+lemon,chestnut
+lemon,hazelnut
+lemon,pecan
+lemon,pine nut
+lemon,pistachio
+lemon,walnut
+lemon,gin
+lemon,orange liqueur
+lemon,red wine
+lemon,rum
+lemon,vodka
+lemon,caramel
+lemon,chocolate
+lemon,coffee
+lemon,creme fraeche
+lemon,honey
+lemon,maple syrup
+lemon,mascarpone
+lemon,vanilla
+lime,apple
+lime,apricot
+lime,avocado
+lime,coconut
+lime,date
+lime,gooseberry
+lime,grapefruit
+lime,guava
+lime,honeydew
+lime,kiwi
+lime,lemon
+lime,mango
+lime,orange
+lime,papaya
+lime,passion fruit
+lime,plum
+lime,raspberry
+lime,strawberry
+lime,tomato
+lime,cilantro
+lime,ginger
+lime,mint
+lime,hazelnut
+lime,macadamia
+lime,peanut
+lime,pecan
+lime,rum
+lime,tequila
+lime,vodka
+lime,caramel
+lime,coconut milk
+lime,creme fraeche
+lime,honey
+lime,maple syrup
+lime,mascarpone
+lime,vanilla
+lime,white chocolate
+lychee,blackberry
+lychee,coconut
+lychee,honeydew
+lychee,kiwi
+lychee,lemon
+lychee,lime
+lychee,mango
+lychee,orange
+lychee,passion fruit
+lychee,pear
+lychee,pineapple
+lychee,plum
+lychee,raspberry
+lychee,ginger
+lychee,rum
+lychee,honey
+mango,apple
+mango,avocado
+mango,banana
+mango,blackberry
+mango,blueberry
+mango,coconut
+mango,grapefruit
+mango,kiwi
+mango,kumquat
+mango,lemon
+mango,lime
+mango,orange
+mango,papaya
+mango,passion fruit
+mango,pineapple
+mango,raspberry
+mango,strawberry
+mango,basil
+mango,cayenne
+mango,cilantro
+mango,cinnamon
+mango,cloves
+mango,ginger
+mango,mint
+mango,nutmeg
+mango,star anise
+mango,almond
+mango,cashew
+mango,macadamia
+mango,amaretto
+mango,champagne
+mango,kirsch
+mango,orange liqueur
+mango,rum
+mango,sake
+mango,vodka
+mango,caramel
+mango,coconut milk
+mango,coffee
+mango,creme fraeche
+mango,honey
+mango,mascarpone
+mango,vanilla
+mango,white chocolate
+nectarine,apricot
+nectarine,blackberry
+nectarine,blueberry
+nectarine,cherry
+nectarine,cranberry
+nectarine,lemon
+nectarine,orange
+nectarine,peach
+nectarine,plum
+nectarine,raspberry
+nectarine,strawberry
+nectarine,allspice
+nectarine,cinnamon
+nectarine,ginger
+nectarine,mint
+nectarine,nutmeg
+nectarine,almond
+nectarine,hazelnut
+nectarine,pecan
+nectarine,pistachio
+nectarine,brandy
+nectarine,champagne
+nectarine,kirsch
+nectarine,orange liqueur
+nectarine,peach liqueur
+nectarine,red wine
+nectarine,white wine
+nectarine,caramel
+nectarine,chocolate
+nectarine,honey
+nectarine,maple syrup
+nectarine,mascarpone
+nectarine,vanilla
+orange,apple
+orange,apricot
+orange,avocado
+orange,banana
+orange,blackberry
+orange,blueberry
+orange,cherry
+orange,coconut
+orange,cranberry
+orange,date
+orange,grape
+orange,grapefruit
+orange,guava
+orange,kumquat
+orange,lemon
+orange,lime
+orange,mango
+orange,nectarine
+orange,papaya
+orange,passion fruit
+orange,peach
+orange,pear
+orange,persimmon
+orange,pineapple
+orange,plum
+orange,pomegranate
+orange,prune
+orange,pumpkin
+orange,quince
+orange,raspberry
+orange,rhubarb
+orange,strawberry
+orange,tomato
+orange,basil
+orange,cardamom
+orange,cilantro
+orange,cinnamon
+orange,cloves
+orange,cumin
+orange,ginger
+orange,mint
+orange,nutmeg
+orange,paprika
+orange,parsley
+orange,poppy seed
+orange,rosemary
+orange,saffron
+orange,star anise
+orange,thyme
+orange,almond
+orange,chestnut
+orange,hazelnut
+orange,macadamia
+orange,pecan
+orange,pine nut
+orange,pistachio
+orange,walnut
+orange,almond liqueur
+orange,amaretto
+orange,armagnac
+orange,brandy
+orange,cognac
+orange,kirsch
+orange,orange liqueur
+orange,red wine
+orange,rum
+orange,tequila
+orange,vodka
+orange,white wine
+orange,caramel
+orange,chocolate
+orange,coffee
+orange,grenadine
+orange,honey
+orange,maple syrup
+orange,mascarpone
+orange,vanilla
+papaya,banana
+papaya,coconut
+papaya,grapefruit
+papaya,kiwi
+papaya,kumquat
+papaya,lemon
+papaya,lime
+papaya,mango
+papaya,nectarine
+papaya,orange
+papaya,passion fruit
+papaya,peach
+papaya,pineapple
+papaya,raspberry
+papaya,strawberry
+papaya,cilantro
+papaya,cinnamon
+papaya,ginger
+papaya,mint
+papaya,cashew
+papaya,macadamia
+papaya,peanut
+papaya,port
+papaya,caramel
+papaya,honey
+papaya,vanilla
+papaya,white chocolate
+passion fruit,banana
+passion fruit,coconut
+passion fruit,kiwi
+passion fruit,lemon
+passion fruit,lime
+passion fruit,mango
+passion fruit,orange
+passion fruit,papaya
+passion fruit,peach
+passion fruit,pear
+passion fruit,pineapple
+passion fruit,strawberry
+passion fruit,cilantro
+passion fruit,ginger
+passion fruit,almond
+passion fruit,cashew
+passion fruit,macadamia
+passion fruit,champagne
+passion fruit,cointreau
+passion fruit,ice wine
+passion fruit,rum
+passion fruit,tequila
+passion fruit,caramel
+passion fruit,chocolate
+passion fruit,vanilla
+peach,apple
+peach,apricot
+peach,blackberry
+peach,blueberry
+peach,cherry
+peach,coconut
+peach,lemon
+peach,lime
+peach,nectarines
+peach,orange
+peach,papaya
+peach,passion fruit
+peach,pineapple
+peach,plum
+peach,raspberry
+peach,strawberry
+peach,allspice
+peach,basil
+peach,bay leaf
+peach,cinnamon
+peach,cloves
+peach,ginger
+peach,mace
+peach,mint
+peach,nutmeg
+peach,saffron
+peach,star anise
+peach,tarragon
+peach,thyme
+peach,almond
+peach,hazelnut
+peach,pecan
+peach,pistachio
+peach,walnut
+peach,bourbon
+peach,brandy
+peach,calvados
+peach,cassis
+peach,champagne
+peach,cognac
+peach,cointreau
+peach,grand marnier
+peach,kirsch
+peach,madeira
+peach,port
+peach,red wine
+peach,rum
+peach,vin santo
+peach,whiskey
+peach,white wine
+peach,brown sugar
+peach,caramel
+peach,chocolate
+peach,creme fraeche
+peach,grenadine
+peach,honey
+peach,maple syrup
+peach,mascarpone
+peach,molasses
+peach,vanilla
+pear,apple
+pear,apricot
+pear,blackberry
+pear,blueberry
+pear,cherry
+pear,cranberry
+pear,date
+pear,lemon
+pear,orange
+pear,passion fruit
+pear,prune
+pear,quince
+pear,raspberry
+pear,rhubarb
+pear,strawberry
+pear,allspice
+pear,basil
+pear,cardamom
+pear,cinnamon
+pear,cloves
+pear,ginger
+pear,mace
+pear,mint
+pear,nutmeg
+pear,parsley
+pear,rosemary
+pear,star anise
+pear,almond
+pear,chestnut
+pear,hazelnut
+pear,macadamia
+pear,peanut
+pear,pecan
+pear,pine nut
+pear,pistachio
+pear,walnut
+pear,bourbon
+pear,brandy
+pear,calvados
+pear,creme de cassis
+pear,champagne
+pear,grand marnier
+pear,kirsch
+pear,pear brandy
+pear,port
+pear,red wine
+pear,rum
+pear,whiskey
+pear,caramel
+pear,chocolate
+pear,creme fraeche
+pear,honey
+pear,maple syrup
+pear,mascarpone
+pear,vanilla
+persimmon,apple
+persimmon,avocado
+persimmon,grape
+persimmon,kiwi
+persimmon,kumquat
+persimmon,lemon
+persimmon,orange
+persimmon,pear
+persimmon,pomegranate
+persimmon,cinnamon
+persimmon,cloves
+persimmon,ginger
+persimmon,mace
+persimmon,nutmeg
+persimmon,almond
+persimmon,cashew
+persimmon,hazelnut
+persimmon,pecan
+persimmon,walnut
+persimmon,bourbon
+persimmon,brandy
+persimmon,cognac
+persimmon,kirsch
+persimmon,sweet wine
+persimmon,caramel
+persimmon,coffee
+persimmon,honey
+persimmon,maple syrup
+persimmon,vanilla
+persimmon,white chocolate
+pineapple,apricot
+pineapple,avocado
+pineapple,banana
+pineapple,coconut
+pineapple,grapefruit
+pineapple,kiwi
+pineapple,kumquat
+pineapple,lemon
+pineapple,lime
+pineapple,mango
+pineapple,orange
+pineapple,papaya
+pineapple,passion fruit
+pineapple,pomegranate
+pineapple,raspberry
+pineapple,strawberry
+pineapple,allspice
+pineapple,basil
+pineapple,cardamom
+pineapple,cilantro
+pineapple,cinnamon
+pineapple,cloves
+pineapple,ginger
+pineapple,mint
+pineapple,rosemary
+pineapple,saffron
+pineapple,star anise
+pineapple,cashew
+pineapple,macadamia
+pineapple,pistachio
+pineapple,walnut
+pineapple,brandy
+pineapple,cointreau
+pineapple,grand marnier
+pineapple,kirsch
+pineapple,orange liqueur
+pineapple,rum
+pineapple,sweet wine
+pineapple,caramel
+pineapple,chocolate
+pineapple,honey
+pineapple,maple syrup
+pineapple,vanilla
+plum,apricot
+plum,cherry
+plum,lemon
+plum,nectarine
+plum,orange
+plum,peach
+plum,raspberry
+plum,strawberry
+plum,allspice
+plum,almond
+plum,bay leaf
+plum,cardamom
+plum,cinnamon
+plum,cloves
+plum,coriander
+plum,ginger
+plum,mace
+plum,mint
+plum,nutmeg
+plum,sage
+plum,thyme
+plum,hazelnut
+plum,pecan
+plum,walnut
+plum,brandy
+plum,gin
+plum,kirsch
+plum,rum
+plum,whiskey
+plum,red wine
+plum,sweet wine
+plum,caramel
+plum,creme fraeche
+plum,honey
+plum,maple syrup
+plum,vanilla
+pomegranate,apple
+pomegranate,avocado
+pomegranate,banana
+pomegranate,coconut
+pomegranate,grapefruit
+pomegranate,kumquat
+pomegranate,lemon
+pomegranate,lime
+pomegranate,orange
+pomegranate,allspice
+pomegranate,cardamom
+pomegranate,cinnamon
+pomegranate,cloves
+pomegranate,coriander
+pomegranate,cumin
+pomegranate,ginger
+pomegranate,mint
+pomegranate,nutmeg
+pomegranate,parsley
+pomegranate,turmeric
+pomegranate,almond
+pomegranate,hazelnut
+pomegranate,pine nut
+pomegranate,walnut
+pomegranate,port
+pomegranate,tequila
+pomegranate,vodka
+pomegranate,honey
+pomegranate,white chocolate
+pumpkin,apple
+pumpkin,coconut
+pumpkin,cranberry
+pumpkin,kumquat
+pumpkin,lemon
+pumpkin,lime
+pumpkin,orange
+pumpkin,allspice
+pumpkin,bay leaf
+pumpkin,cayenne
+pumpkin,cilantro
+pumpkin,cinnamon
+pumpkin,cloves
+pumpkin,cumin
+pumpkin,ginger
+pumpkin,mace
+pumpkin,nutmeg
+pumpkin,rosemary
+pumpkin,sage
+pumpkin,thyme
+pumpkin,hazelnut
+pumpkin,pecan
+pumpkin,pine nut
+pumpkin,walnut
+pumpkin,brandy
+pumpkin,cognac
+pumpkin,orange liqueur
+pumpkin,rum
+pumpkin,white wine
+pumpkin,caramel
+pumpkin,creme fraeche
+pumpkin,honey
+pumpkin,maple syrup
+pumpkin,molasses
+pumpkin,vanilla
+pumpkin,white chocolate
+quince,apple
+quince,cherry
+quince,cranberry
+quince,date
+quince,kumquat
+quince,lemon
+quince,orange
+quince,pear
+quince,raspberry
+quince,bay leaf
+quince,cardamom
+quince,cinnamon
+quince,cloves
+quince,ginger
+quince,nutmeg
+quince,star anise
+quince,almond
+quince,hazelnut
+quince,pecan
+quince,pistachio
+quince,walnut
+quince,armagnac
+quince,brandy
+quince,calvados
+quince,red wine
+quince,whiskey
+quince,white wine
+quince,caramel
+quince,honey
+quince,maple syrup
+quince,mascarpone
+quince,vanilla
+raspberry,apricot
+raspberry,blackberry
+raspberry,blueberry
+raspberry,grapefruit
+raspberry,grape
+raspberry,lemon
+raspberry,lime
+raspberry,mango
+raspberry,nectarine
+raspberry,orange
+raspberry,peach
+raspberry,pear
+raspberry,pineapple
+raspberry,plum
+raspberry,quince
+raspberry,rhubarb
+raspberry,strawberry
+raspberry,cinnamon
+raspberry,cloves
+raspberry,ginger
+raspberry,mint
+raspberry,star anise
+raspberry,thyme
+raspberry,almond
+raspberry,hazelnut
+raspberry,macadamia
+raspberry,peanut
+raspberry,pecan
+raspberry,pine nut
+raspberry,pistachio
+raspberry,brandy
+raspberry,champagne
+raspberry,cognac
+raspberry,cointreau
+raspberry,framboise
+raspberry,grand marnier
+raspberry,kirsch
+raspberry,orange liqueur
+raspberry,red wine
+raspberry,rum
+raspberry,tequila
+raspberry,caramel
+raspberry,chocolate
+raspberry,creme fraeche
+raspberry,honey
+raspberry,maple syrup
+raspberry,mascarpone
+raspberry,vanilla
+rhubarb,apple
+rhubarb,apricot
+rhubarb,blood orange
+rhubarb,grapefruit
+rhubarb,lemon
+rhubarb,lime
+rhubarb,nectarine
+rhubarb,peach
+rhubarb,plum
+rhubarb,raspberry
+rhubarb,strawberry
+rhubarb,bay leaf
+rhubarb,cardamom
+rhubarb,cinnamon
+rhubarb,cloves
+rhubarb,ginger
+rhubarb,mint
+rhubarb,nutmeg
+rhubarb,almond
+rhubarb,hazelnut
+rhubarb,pecan
+rhubarb,brandy
+rhubarb,grand marnier
+rhubarb,kirsch
+rhubarb,port
+rhubarb,white wine
+rhubarb,caramel
+rhubarb,creme fraeche
+rhubarb,grenadine
+rhubarb,honey
+rhubarb,maple syrup
+rhubarb,mascarpone
+rhubarb,vanilla
+rhubarb,white chocolate
+strawberry,apple
+strawberry,apricot
+strawberry,banana
+strawberry,blackberry
+strawberry,blueberry
+strawberry,boysenberry
+strawberry,gooseberry
+strawberry,grape
+strawberry,grapefruit
+strawberry,guava
+strawberry,kumquat
+strawberry,lemon
+strawberry,lime
+strawberry,mango
+strawberry,melon
+strawberry,orange
+strawberry,papaya
+strawberry,passion fruit
+strawberry,peach
+strawberry,pineapple
+strawberry,plum
+strawberry,pomegranate
+strawberry,raspberry
+strawberry,rhubarb
+strawberry,cardamom
+strawberry,cinnamon
+strawberry,cloves
+strawberry,coriander
+strawberry,ginger
+strawberry,mint
+strawberry,nutmeg
+strawberry,almond
+strawberry,hazelnut
+strawberry,peanut
+strawberry,pecan
+strawberry,pine nut
+strawberry,pistachio
+strawberry,walnut
+strawberry,amaretto
+strawberry,brandy
+strawberry,champagne
+strawberry,cognac
+strawberry,elderflower liqueur
+strawberry,grand marnier
+strawberry,kirsch
+strawberry,port
+strawberry,red wine
+strawberry,rose
+strawberry,rum
+strawberry,sake
+strawberry,sherry
+strawberry,white wine
+strawberry,caramel
+strawberry,chocolate
+strawberry,creme fraeche
+strawberry,honey
+strawberry,vanilla
+agave,mango
+agave,papaya
+agave,cantaloupe
+agave,cherry
+agave,grapefruit
+agave,pineapple
+agave,strawberry
+agave,lime
+agave,anise
+agave,chilli
+agave,cinnamon
+agave,ginger
+agave,mint
+agave,basil
+agave,thyme
+agave,almond
+agave,honey
+agave,cucumber
+agave,coffee
+agave,celery
+almond,fig
+almond,cinnamon
+almond,pepper
+almond,cardamom
+almond,nutmeg
+almond,parsley
+almond,basil
+almond,cassia leaf
+almond,coffee
+almond,honey
+almond,caramel
+apple,citrus
+apple,currants
+apple,kiwi
+apple,raspberry
+apple,clove
+apple,mint
+apple,maple
+apricot,figs
+apricot,black pepper
+apricot,mint
+apricot,dill
+apricot,rose
+avocado,plum
+avocado,cinnamon
+avocado,mint
+avocado,juniper
+avocado,honey
+avocado,agave
+avocado,cucumber
+avocado,matcha
+banana,kumquat
+banana,clove
+banana,mint
+banana,maple
+banana,"chocolate,"
+bay leaf,pineapple
+bay leaf,lime
+bay leaf,ginger
+bay leaf,thyme
+bay leaf,juniper
+bay leaf,honey
+black current,apple
+black current,cherry
+black current,figs
+black current,peach
+black current,pear
+black current,prune
+black current,raspberry
+black current,strawberry
+black current,ginger
+black current,basil
+black current,pepper
+black current,mint
+black current,rosemary
+black current,almond
+black current,carrot
+black current,fennel
+black current,honey
+blackberry,elderberry
+blackberry,citrus mango
+blackberry,rhubarb
+blackberry,tangerine
+blackberry,black pepper
+blackberry,chocolate
+blackberry,maple
+blood orange,fig
+blood orange,pineapple
+blood orange,passionfruit
+blood orange,cardamom
+blood orange,cinnamon
+blood orange,clove
+blood orange,ginger
+blood orange,rosemary
+blood orange,mint
+blood orange,almond
+blood orange,honey
+blood orange,chocolate
+blueberry,rosemary
+blueberry,sage
+blueberry,jasmine
+blueberry,lemongrass
+blueberry,orange blossom
+blueberry,white chocolate
+cantaloupe,lime
+cantaloupe,lemon
+cantaloupe,pomegranate
+cantaloupe,pineapple
+cantaloupe,orange
+cantaloupe,sage
+cantaloupe,honey
+cantaloupe,maple
+cantaloupe,cucumber
+cantaloupe,rose
+caramel,cranberry
+caramel,tangerine
+caramel,cinnamon
+caramel,anise
+caramel,mint
+caramel,chocolate
+caramel,coffee
+caramel,toffee
+caramel,vanilla
+caramel,walnut
+cardamom,lime
+cardamom,papaya
+cardamom,grapefruit
+cardamom,ginger
+cardamom,anise
+cardamom,cardamom
+cardamom,mint
+cardamom,basil
+cardamom,rose
+cardamom,honey
+cardamom,agave
+carrot,pineapple
+carrot,orange
+carrot,lime
+carrot,black pepper
+carrot,cinnamon
+carrot,cardamom
+carrot,chilli
+carrot,ginger
+carrot,mint
+carrot,basil
+carrot,thyme
+carrot,rosemary
+cashew,pear
+cashew,apple
+cashew,ginger
+cashew,cinnamon
+cashew,nutmeg
+cashew,parsley
+cashew,dill
+cashew,caramel
+cashew,honey
+chamomile,pineapple
+chamomile,apple
+chamomile,citrus
+chamomile,tangerine
+chamomile,black pepper
+chamomile,cinnamon
+chamomile,mint
+chamomile,thyme
+chamomile,almond
+chamomile,coffee
+cherry,citrus
+cherry,currants
+cherry,lychee
+cherry,black pepper
+cherry,nutmeg
+cherry,violet
+chestnut,fig
+chestnut,pears
+chestnut,prunes
+chestnut,oranges
+chestnut,raisins
+chestnut,cardamom
+chestnut,nutmeg
+chestnut,cloves
+chestnut,bay leaf
+chestnut,rosemary
+chestnut,thyme
+chestnut,maple syrup
+chestnut,honey
+chestnut,chocolate
+chestnut,coffee
+chillies,mango
+chillies,lime
+chillies,pineapple
+chillies,papaya
+chillies,orange
+chillies,grapefruit
+chillies,cardamom
+chillies,mint
+chillies,agave
+chillies,honey
+chillies,chocolate
+chocolate,blueberry
+chocolate,cherries
+chocolate,anise
+chocolate,cinnamon
+chocolate,cloves
+chocolate,mint
+chocolate,sage
+chocolate,rosemary
+chocolate,almond
+chocolate,caramel hazelnut
+chocolate,honey
+chocolate,maple
+chocolate,coffee
+chocolate,vanilla
+cinnamon,lime
+cinnamon,grapefruit
+cinnamon,ginger
+cinnamon,anise
+cinnamon,cardamom
+cinnamon,nutmeg
+cinnamon,mint
+cinnamon,honey
+cloudberry,citrus fruits
+cloudberry,orange
+cloudberry,pineapple
+cloudberry,cinnamon
+cloudberry,sage
+cloudberry,mint
+cloudberry,cream
+cloudberry,pistachio
+cloves,lime
+cloves,raisins
+cloves,prune
+cloves,cinnamon
+cloves,anise
+cloves,nutmeg
+cloves,mint
+cloves,sage
+cloves,liquorice
+cloves,walnut
+coconut,apple
+coconut,tropical fruits
+coconut,clove
+coconut,watermelon
+coconut,anise
+coconut,rosemary
+coconut,cucumber
+coffee,apricot
+coffee,pumpkin
+coffee,anise
+coffee,clove
+coffee,cinnamon
+coffee,cardamom
+coffee,mint
+coffee,hazelnut
+coffee,vanilla
+coffee,honey
+coffee,walnut
+coriander,lime
+coriander,lemon
+coriander,pineapple
+coriander,ginger
+coriander,mint
+coriander,cucumber
+coriander,juniper
+coriander,honey
+cranberry,lime orange
+cranberry,cardamom
+cranberry,clove
+cranberry,sage
+cranberry,mint
+cranberry,white chocolate
+cucumber,strawberry
+cucumber,raspberry
+cucumber,apple
+cucumber,orange
+cucumber,citrus
+cucumber,black pepper
+cucumber,basil
+cucumber,dill
+cucumber,mint
+cucumber,sage
+cucumber,thyme
+cucumber,rosemary
+cucumber,honey
+cucumber,flowers
+cucumber,juniper
+cucumber,rhubarb
+dandelion,apple
+dandelion,orange
+dandelion,citrus
+dandelion,grapefruit
+dandelion,cinnamon
+dandelion,mint
+dandelion,basil
+dandelion,sage
+dandelion,thyme
+dandelion,honey
+dandelion,cucumber
+dandelion,rhubarb
+dandelion,maple
+dandelion,juniper
+date,cranberry
+date,fig
+date,nectarine
+date,tangerine
+date,mint
+date,honey
+dill,apple
+dill,lemon
+dill,pineapple
+dill,pomegranate
+dill,ginger
+dill,black pepper
+dill,mint
+dragon fruit,mango
+dragon fruit,pineapple
+dragon fruit,lemon
+dragon fruit,lime
+dragon fruit,strawberry
+dragon fruit,cinnamon
+dragon fruit,ginger
+dragon fruit,mint
+dragon fruit,almond
+dragon fruit,honey
+dragon fruit,vanilla
+durian,lime
+durian,cherry
+durian,pineapple
+durian,nutmeg
+durian,clove
+durian,star anise
+durian,cinnamon
+durian,mint
+durian,vanilla
+durian,caramel
+durian,honey
