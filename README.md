@@ -1,7 +1,3 @@
-Here’s a README file for the "Cookies Recipe Generator" project based on the provided report:
-
----
-
 # Cookies Recipe Generator - Genetic Algorithm
 
 ## Project Overview
