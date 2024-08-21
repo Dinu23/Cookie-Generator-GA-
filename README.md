@@ -48,7 +48,3 @@ A detailed report on the methodology, algorithms, and the results of this projec
 For any inquiries, please contact:
 - **Name**: Dinu Catalin-Viorel
 - **Email**: viorel.dinu00@gmail.com
-
----
-
-This README provides a structured overview of the project, explaining its features, algorithmic approach, and instructions for usage, along with a reference to the full report for more detailed information.
